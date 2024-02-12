@@ -119,9 +119,9 @@
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehdiElMellali/mehdi/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehdiElMellali/mehdi/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MehdiElMellali/mehdi/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehdiElMellali/MehdiElMellali/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehdiElMellali/MehdiElMellali/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MehdiElMellali/MehdiElMellali/output/snake.svg" />
 </picture>
 </div>
 
